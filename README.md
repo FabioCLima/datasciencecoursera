@@ -1,2 +1,1 @@
-This repository is for a few courses on Data Science Especialization on Coursera. 
-In order to delivery my projects for later evaluation.
+This repository is for the course Exploratory Data Analysis on Coursera that will split on the projects during the course assigments.
